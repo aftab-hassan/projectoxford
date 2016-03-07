@@ -1,0 +1,46 @@
+{
+	u'faceId': u'09a6ff78-38dc-4f46-bc35-768f927f62db', 
+	u'faceRectangle': 
+	{
+		u'width': 90, u'top': 73, u'height': 90, u'left': 57
+	}, 
+	u'faceAttributes': 
+	{
+		u'smile': 0.999, u'age': 45.8, u'headPose': {u'yaw': -3.2, u'roll': -1.1, u'pitch': 0.0}, 
+		u'facialHair': 
+		{
+			u'sideburns': 0.0, u'moustache': 0.0, u'beard': 0.0
+		}, 
+		u'gender': u'female'
+	}, 
+	u'faceLandmarks': 
+	{
+		u'underLipTop': {u'y': 147.1, u'x': 103.4}, 
+		u'noseTip': {u'y': 127.0, u'x': 100.6}, 
+		u'upperLipBottom': {u'y': 139.7, u'x': 103.0}, 
+		u'noseLeftAlarTop': {u'y': 116.1, u'x': 92.0}, 
+		u'eyebrowLeftOuter': {u'y': 91.0, u'x': 64.7}, 
+		u'eyeLeftBottom': {u'y': 99.4, u'x': 82.5}, 
+		u'pupilLeft': {u'y': 96.6, u'x': 82.4}, 
+		u'upperLipTop': {u'y': 137.7, u'x': 102.6}, 
+		u'eyeLeftInner': {u'y': 98.8, u'x': 87.9}, 
+		u'eyeRightInner': {u'y': 98.1, u'x': 114.6}, 
+		u'eyeLeftTop': {u'y': 94.8, u'x': 82.6}, 
+		u'mouthLeft': {u'y': 137.6, u'x': 83.2}, 
+		u'noseRightAlarTop': {u'y': 115.6, u'x': 109.8}, 
+		u'eyebrowRightInner': {u'y': 88.3, u'x': 112.5}, 
+		u'noseLeftAlarOutTip': {u'y': 125.7, u'x': 87.5}, 
+		u'noseRightAlarOutTip': {u'y': 124.6, u'x': 115.5}, 
+		u'noseRootRight': {u'y': 100.9, u'x': 105.6}, 
+		u'eyeLeftOuter': {u'y': 98.3, u'x': 76.2}, 
+		u'underLipBottom': {u'y': 150.0, u'x': 103.6}, 
+		u'eyeRightTop': {u'y': 94.4, u'x': 120.6}, 
+		u'eyeRightOuter': {u'y': 97.6, u'x': 126.6}, 
+		u'noseRootLeft': {u'y': 101.6, u'x': 96.0}, 
+		u'eyebrowRightOuter': {u'y': 92.8, u'x': 139.6}, 
+		u'eyeRightBottom': {u'y': 99.3, u'x': 120.7}, 
+		u'eyebrowLeftInner': {u'y': 88.9, u'x': 90.7}, 
+		u'mouthRight': {u'y': 136.3, u'x': 124.1}, 
+		u'pupilRight': {u'y': 96.0, u'x': 120.2}
+	}
+}

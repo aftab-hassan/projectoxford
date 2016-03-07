@@ -1,0 +1,1 @@
+C:\Python27\python.exe C:\Users\aftab\Desktop\facerecognition\noface.py
